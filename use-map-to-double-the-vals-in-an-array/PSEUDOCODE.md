@@ -1,0 +1,1 @@
+Go through every index of the array and multiply it by 2 using the map method.
