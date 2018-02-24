@@ -1,0 +1,1 @@
+Go through the entire array using filter and only return the indexes that return true for typeof === number
