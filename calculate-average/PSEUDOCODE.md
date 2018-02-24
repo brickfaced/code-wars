@@ -1,0 +1,1 @@
+Go through every index of the array of integers and add them up using reduce and divide the return value by the number of integers in the array using the .length method
