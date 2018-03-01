@@ -1,0 +1,1 @@
+Loop through stringOne and at every index assign assign it the value from the same index of the second string. Push the new string to an array and join all the strings with a \n.
