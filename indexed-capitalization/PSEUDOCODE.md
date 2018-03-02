@@ -1,0 +1,1 @@
+Split the string so I can capitalize one letter at a time. Start a for loop through the number array and through every iteration check if theres an index in the split string array at the value of the integer array, if there is uppercase that index and when done join the string array back and return it.
